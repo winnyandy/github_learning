@@ -5,3 +5,6 @@
     git init
     git status
     git add [file]
+    git log
+    git commit -m "change content"
+    
