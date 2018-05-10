@@ -1,2 +1,3 @@
 # github_learning
-`Hello` everybody
+`git config --global user.name "wei jun"` 
+`git config --global user.email "jun@email.com"` 
