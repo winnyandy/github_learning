@@ -30,4 +30,6 @@ alert(s);
 ```python
 s = "Python syntax hightlighting"
 ```
-
+## table
+|Tables|Are|Cool|
+|---|---|---|
