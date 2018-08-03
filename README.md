@@ -7,7 +7,7 @@
     git add [file]
     git log
     git commit -m "change content"
-***
+___
 ## markdown learning
     haha
 
