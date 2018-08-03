@@ -19,14 +19,14 @@
 ![alt text](https://i.ytimg.com/vi/YCaGYUIfdy4/maxresdefault.jpg "picture by google")
 
 
-#Highlight learning
+# Highlight learning
 
-##Javascript
+## Javascript
 ```javascript 
 var s = "javascript syntax highlighting";
 alert(s);
 ```
-##Python
+## Python
 ```python
 s = "Python syntax hightlighting"
 ```
